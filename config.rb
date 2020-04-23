@@ -80,14 +80,5 @@ data.store :latest_posts, data.blog.sort_by{ |p| -p.date.to_i }[0..5]
 data.store :publications, data.publications
 data.store :random_team, Hash[data.team.to_a.shuffle]
 
-activate :s3_sync do |s3_sync|
-  s3_sync.bucket                     = 'ajira.tech'
-  s3_sync.region                     = 'us-east-1'
-  s3_sync.aws_access_key_id          = 'AKIAJJ6SRPYIW7N5JKNA'
-  s3_sync.aws_secret_access_key      = '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'
-end
-default_caching_policy max_age:(60 * 60 * 24 * 365)
-caching_policy 'text/html', max_age: 0, must_revalidate: true
-
 set :url_root, 'http://www.ajira.tech'
 activate :search_engine_sitemap, default_priority: 0.5, default_change_frequency: "daily"
