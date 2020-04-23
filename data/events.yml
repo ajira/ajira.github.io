@@ -1,0 +1,35 @@
+---
+- name: Hack n Learn - Chennai
+  description: Building your own bitcoin platform with Kotlin
+  date: 2017-12-15 10:00:00
+  url: https://www.meetup.com/Hack-Learn/events/245136363/
+
+- name: Chennai.rb September Meetup - Chennai
+  description: The Chennai Ruby Brigade, focussed on getting joy out of coding Ruby.
+  date: 2015-09-19 11:00:00
+  url: http://www.meetup.com/chennai-ruby/events/225012170/
+
+- name: Hack n Learn - Chennai
+  description: Analytics/Machine Learning using R
+  date: 2015-10-10 10:00:00
+  url: https://www.eventbrite.com/e/hacknlearnajira-tickets-18449734653
+
+- name: Chennaipy - January Meetup
+  description: This is a group for anyone who loves Python. Meet and discuss with other Pythonistas in Chennai.
+  date: 2016-01-23 15:00:00
+  url: http://www.meetup.com/Chennaipy/events/227952704/
+
+- name: ReactJS and Flux Introduction with Hands on - Coimbatore
+  description: This is a hands on event where you can come and hear about the basics of React
+  date: 2016-01-24 10:00:00
+  url: http://www.meetup.com/Hack-Learn-Coimbatore/events/227874317/
+
+- name: Chennai Hearts Docker Docker Workshop - Chennai
+  description: How much does it take to get started on Docker? Not more than a day really
+  date: 2016-02-06 09:00:00
+  url: http://www.meetup.com/Hack-Learn/events/227866062/
+
+- name: Hack & Learn F#
+  description: F# is a mature, open source, cross-platform, functional-first programming language. In this interactive, hands-on session, you will be creating a console version of a web development library in F#
+  date: 2016-08-27 5:00:00
+  url: http://www.meetup.com/Hack-Learn/events/232941739/

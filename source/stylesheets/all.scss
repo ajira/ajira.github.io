@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+@import "normalize";
+@import "basscss";
+@import "fonts";
+@import "common";
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 64em) {
+  html { font-size: 15px; }
+}
+
+body {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  text-rendering: optimizeLegibility;
+  background: black;
+}
+
+h1, h2, h3, h4, h5, h6, .hface,
+nav#main .btn {
+  font-family: "Dosis", "Helvetica Neue", "Helvetica", sans-serif;
+  font-weight: normal;
+}
+
+html.js {
+  svg.vivus {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+
+    path {
+      visibility: hidden;
+      stroke: #fff !important;
+      fill: #fff !important;
+    }
+
+    &.dark path {
+      stroke: #000 !important;
+      fill: #000 !important;
+    }
+
+    &.vivus-start path {
+      visibility: visible;
+      fill-opacity: 0 !important;
+      stroke-opacity: 1 !important;
+    }
+    &.vivus-done path {
+      transition: fill-opacity 1s, stroke-opacity 1s;
+      fill-opacity: 1 !important;
+      stroke-opacity: 0 !important;
+    }
+  }
+
+  div[data-sr] {
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 40em) {
+  #welcome { height: auto; }
+}
+
+.team-person {
+  cursor: pointer;
+  transition: transform 2s;
+  :hover {
+    transform: scale(1.08);
+    box-shadow: 6px 6px 15px #aaaaaa;
+    transition-timing-function: ease-out;
+    transition-duration: 0.2s;
+  }
+}
+
+.team-person-profile {
+  position: fixed;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background-color: rgba(255,255,255,.95);
+  z-index: 9999;
+  opacity: 0;
+  transform-origin: 50% 50%;
+  transform: scale(0, 0) rotate(45deg);
+  transition: opacity .3s, transform .3s;
+  color: #000;
+
+  .close-btn {
+    cursor: pointer;
+    position: fixed;
+    right: 1rem;
+    top: 0;
+  }
+
+  &.active {
+    opacity: 1;
+    transform: scale(1,1) rotate(0deg);
+  }
+}
+
+.publication-img {
+  max-width: 50%;
+}

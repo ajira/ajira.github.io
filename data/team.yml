@@ -1,0 +1,247 @@
+---
+sat:
+  nick: Sat
+  avatar: team-sat.png
+  linkedin: https://in.linkedin.com/in/satvijayaraghavan
+  interview:
+    - q: What are your ninja skills?
+      a: Building a team that trusts and works for each other.
+    - q: One word that describes you?
+      a: Grit.
+    - q: Motto in life?
+      a: Think Different. Execute Fast. Everyone wins.
+    - q: Whats your interesting hobby and why do you practise it?
+      a: Watching daughter skate, speed thrills but does not kill.
+
+sundar:
+  nick: Sundar
+  avatar: team-sundar.png
+  linkedin: https://in.linkedin.com/pub/sundararajan-g/5/7b0/3bb
+  interview:
+    - q: Which possession do you value the most?
+      a: Word, word bond.
+    - q: Serious message to the public?
+      a: Lose battles to win the War.
+    - q: How will you punish your greatest enemy?
+      a: Run them over with my fleet of Lorries.
+    - q: When do you get pissed off?
+      a: When people don't feel they are part of the society
+
+
+tamizh:
+  nick: Tamizhvendan
+  avatar: team-tamizh.png
+  github: https://github.com/tamizhvendan
+  blog: http://blog.tamizhvendan.in
+  interview:
+    - q: One word that describes you?
+      a: Pragmatic
+    - q: Which possession do you value the most?
+      a: My wife and my sweet little twin daughters
+    - q: Motto in life?
+      a: வாழணும். "செமையா வாழ்ந்தான்டா" ன்ற மாதிரி வாழணும்
+    - q: Serious message to the public?
+      a: Leave this world a little better than you found it
+
+ram:
+  nick: Ram
+  avatar: team-ram.png
+  interview:
+    - q:
+      a:
+
+
+
+prabu:
+  nick: Prabu
+  avatar: team-prabu.png
+  interview:
+    - q:
+      a:
+
+rosmi:
+  nick: Rosmi
+  avatar: team-rosmi.png
+  interview:
+    - q:
+      a:
+
+ragavan:
+  nick: Ragavan
+  avatar: team-ragavan.png
+  github: https://github.com/padwan-ragavan
+  interview:
+    - q: I am also called as...
+      a: Miyagi
+    - q: Favourite quote
+      a: Silence is an argument carried out by other means
+    - q: Serious message to the public
+      a: Setup water bowls for animals, to help them beat the heat
+    - q: What are your ninja skills?
+      a: Javascript
+    - q: One word that describes you.
+      a: Dog-lover
+
+swaathikka:
+  nick: Swaathikka
+  avatar: team-swaatz.png
+  linkedin: https://www.linkedin.com/in/swaathikka-karthikeyan-6359ab131/
+  interview:
+    - q: I am also called as...
+      a: Swaat
+    - q: Motto in life?
+      a: Colour the world
+    - q: What are your ninja skills?
+      a: Thinking on my feet
+    - q: Which possession do you value the most?
+      a: My right hand and my right brain
+      q: Whats your interesting hobby and why do you practise it?
+      a: Hand Lettering. I like making beautifully said words, look beautiful.
+
+nandha:
+  nick: Nandhakumar
+  avatar: team-nandha.png
+  interview:
+    - q:
+      a:
+
+dhivya:
+  nick: Dhivya D
+  avatar: team-dd.png
+  interview:
+    - q: I am also called as...
+      a: Kampan Kool, DD, Frog, Burger Killer, The AWS Architect and many others...
+    - q: Favourite quote
+      a: Interesting...
+    - q: Serious message to the public
+      a: No message or anything
+    - q: What are your ninja skills?
+      a: Irritating people
+    - q: One word that describes you?
+      a: அவ்ளோ ஒர்த் இல்ல
+
+saravanank:
+  nick: Saravanan
+  avatar: team-saravanan.png
+  interview:
+    - q: I am also called as...
+      a: Periappa
+
+adharash:
+  nick: Adharsh
+  avatar: team-adharsh.png
+  interview:
+    - q:
+      a:
+
+aswin:
+  nick: Aswin
+  avatar: team-aswin.png
+  interview:
+    - q:
+      a:
+
+gowtham:
+  nick: Gowthamraj
+  avatar: team-gowtham.png
+  interview:
+    - q:
+      a:
+
+lordson:
+  nick: Lordson
+  avatar: team-lordson.png
+  interview:
+    - q:
+      a:
+
+sinthiya:
+  nick: Sinthiya
+  avatar: team-sinthiya.png
+  interview:
+    - q:
+      a:
+
+arunmadhavan:
+  nick: Arun Madhavan
+  avatar: team-arunmadhavan.png
+  interview:
+    - q:
+      a:
+
+shailesh:
+  nick: Shailesh
+  avatar: team-shailesh.png
+  interview:
+    - q:
+      a:
+
+jyothi:
+  nick: Jyothi
+  avatar: team-jyothi.png
+  interview:
+    - q:
+      a:
+
+arvind:
+  nick: Arvind
+  avatar: team-arvind.png
+  interview:
+    - q:
+      a:
+
+pranav:
+  nick: Pranav
+  avatar: team-pranav.png
+  interview:
+    - q:
+      a:
+
+kanishka:
+  nick: Kanishka
+  avatar: team-kanishka.png
+  interview:
+    - q:
+      a:
+
+swetha:
+  nick: Swetha
+  avatar: team-swetha.png
+  interview:
+    - q:
+      a:
+
+jeyagauri:
+  nick: Jeyagauri
+  avatar: team-jeyagauri.png
+  interview:
+    - q:
+      a:
+
+hari:
+  nick: Haripriyan
+  avatar: team-hari.png
+  interview:
+    - q:
+      a:
+
+apk:
+  nick: Arun Pandian
+  avatar: team-apk.png
+  interview:
+    - q:
+      a:
+
+srinidhi:
+  nick: Srinidhi
+  avatar: team-srinidhi.png
+  interview:
+    - q:
+      a:
+
+shalini:
+  nick: Shalini
+  avatar: team-shalini.png
+  interview:
+    - q:
+      a:

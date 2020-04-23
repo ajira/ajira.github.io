@@ -1,0 +1,18 @@
+  #events.bg-white.clearfix
+    h2.m3.center.caps.sr-top
+      span.inline-block.p2.border.border-blue.blue.rounded Events
+
+    - events.each do |event|
+      .container.clearfix.p1.mb1.sr-top.sr-scale-10
+        .sm-col.md-col-2.center
+          h5.h5.mt0.caps.px2.inline-block
+            .inline-block.border.rounded.bg-lighten-3
+              .px2.py1.border-bottom.bold= event.date.strftime "%b %d"
+              .px2.py1= event.date.strftime "%H:%M"
+        .sm-col.md-col-8.sm-center
+          a.h2.hface href=event.url rel="nofollow" target="_blank"
+            = event.name
+          p= event.description
+    - if filtered
+      .m3.center
+        a.btn.caps.blue href="events.html" Past Events

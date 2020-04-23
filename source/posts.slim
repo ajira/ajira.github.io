@@ -1,0 +1,4 @@
+nav#main.clearfix.white.fixed.pt0.pr0.pl0.z4.md-show.lg-show
+  .left
+    a.btn.caps.bg-darken-2 href="//www.ajira.tech" Ajira
+= partial('posts', :locals => {:posts => data.blog.sort_by(&:date).reverse, :filtered => false})

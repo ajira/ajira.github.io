@@ -1,0 +1,18 @@
+#blog.bg-white.clearfix
+  h2.m3.center.caps.sr-top
+    span.inline-block.p2.border.border-black.rounded Publications
+
+  .container.clearfix.p1.mb2
+    - publications.each_with_index do |publication, i|
+      .col-12.mx-auto.sr-bottom.clearfix
+        .sm-col.sm-col-12.md-col-6.lg-col-6.mb2.px2
+          .sm-col.sm-col-4.md-col-4.lg-col-1.mb2.px2
+          .sm-col.sm-col-4.md-col-4.lg-col-10.mb2.px2.center
+            a.olive href=publication.link target="_blank"
+              img.rounded.publication-img src="/images/publications/#{publication.img}" width="75%"
+          .sm-col.sm-col-4.md-col-4.lg-col-1.mb2.px2
+        .sm-col.sm-col-12.md-col-6.lg-col-6.mb2.px2
+          span= publication.description
+          span.h6.bold
+            | &nbsp;&bull;&nbsp;
+            a.olive href=publication.link target="_blank" read more
