@@ -57,7 +57,7 @@ build/
 *.bridgesupport
 build-iPhoneOS/
 build-iPhoneSimulator/
-
+deploy.sh
 ## Specific to RubyMotion (use of CocoaPods):
 #
 # We recommend against adding the Pods directory to your .gitignore. However
