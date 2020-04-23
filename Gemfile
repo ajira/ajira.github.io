@@ -17,7 +17,7 @@ gem "middleman-search_engine_sitemap", "~> 1.3.0"
 gem "slim", "~> 3.0.6"
 
 # Heroku
-gem "rake", "~> 10.4.2"
+gem "rake", "~> 12.3.3"
 gem "rack-contrib", "~> 1.4.0"
 gem "rack-zippy", "~> 3.0.1"
 gem "puma"
