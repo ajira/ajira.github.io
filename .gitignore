@@ -53,6 +53,7 @@ Temporary Items
 ## Specific to RubyMotion:
 .dat*
 .repl_history
+build/
 *.bridgesupport
 build-iPhoneOS/
 build-iPhoneSimulator/
