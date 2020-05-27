@@ -1,6 +1,7 @@
 ---
 sat:
   nick: Sat
+  designation: CEO, Founder
   avatar: team-sat.png
   linkedin: https://in.linkedin.com/in/satvijayaraghavan
   interview:
@@ -15,6 +16,7 @@ sat:
 
 sundar:
   nick: Sundar
+  designation: Co-Founder
   avatar: team-sundar.png
   linkedin: https://in.linkedin.com/pub/sundararajan-g/5/7b0/3bb
   interview:
@@ -30,6 +32,7 @@ sundar:
 
 tamizh:
   nick: Tamizhvendan
+  designation: Lead Software Engineer
   avatar: team-tamizh.png
   github: https://github.com/tamizhvendan
   blog: http://blog.tamizhvendan.in
@@ -45,6 +48,7 @@ tamizh:
 
 prabu:
   nick: Prabu
+  designation: Lead Software Engineer
   avatar: team-prabu.png
   interview:
     - q:
@@ -52,6 +56,7 @@ prabu:
 
 ragavan:
   nick: Ragavan
+  designation: Lead Software Engineer
   avatar: team-ragavan.png
   github: https://github.com/padwan-ragavan
   interview:
@@ -68,6 +73,7 @@ ragavan:
 
 dhivya:
   nick: Dhivya D
+  designation: Senior Software Engineer
   avatar: team-dd.png
   interview:
     - q: I am also called as...
@@ -83,6 +89,7 @@ dhivya:
 
 saravanank:
   nick: Saravanan
+  designation: Office Manager
   avatar: team-saravanan.png
   interview:
     - q: I am also called as...
@@ -90,6 +97,7 @@ saravanank:
 
 adharash:
   nick: Adharsh
+  designation: Software Engineer
   avatar: team-adharsh.png
   interview:
     - q:
@@ -97,6 +105,7 @@ adharash:
 
 aswin:
   nick: Aswin
+  designation: Software Engineer
   avatar: team-aswin.png
   interview:
     - q:
@@ -104,6 +113,7 @@ aswin:
 
 gowtham:
   nick: Gowthamraj
+  designation: Software Engineer
   avatar: team-gowtham.png
   interview:
     - q:
@@ -111,6 +121,7 @@ gowtham:
 
 lordson:
   nick: Lordson
+  designation: Software Engineer
   avatar: team-lordson.png
   interview:
     - q:
@@ -118,6 +129,7 @@ lordson:
 
 sinthiya:
   nick: Sinthiya
+  designation: Software Engineer
   avatar: team-sinthiya.png
   interview:
     - q:
@@ -125,6 +137,7 @@ sinthiya:
 
 arunmadhavan:
   nick: Arun Madhavan
+  designation: Lead Software Engineer
   avatar: team-arunmadhavan.png
   interview:
     - q:
@@ -132,6 +145,7 @@ arunmadhavan:
 
 shailesh:
   nick: Shailesh
+  designation: Software Engineer
   avatar: team-shailesh.png
   interview:
     - q:
@@ -139,6 +153,7 @@ shailesh:
 
 jyothi:
   nick: Jyothi
+  designation: Customer Care Consultant
   avatar: team-jyothi.png
   interview:
     - q:
@@ -146,6 +161,7 @@ jyothi:
 
 arvind:
   nick: Arvind
+  designation: Senior Software Engineer
   avatar: team-arvind.png
   interview:
     - q:
@@ -153,6 +169,7 @@ arvind:
 
 pranav:
   nick: Pranav
+  designation: Software Engineer
   avatar: team-pranav.png
   interview:
     - q:
@@ -160,6 +177,7 @@ pranav:
 
 kanishka:
   nick: Kanishka
+  designation: Software Engineer
   avatar: team-kanishka.png
   interview:
     - q:
@@ -167,6 +185,7 @@ kanishka:
 
 swetha:
   nick: Swetha
+  designation: Recruiter
   avatar: team-swetha.png
   interview:
     - q:
@@ -174,6 +193,7 @@ swetha:
 
 jeyagauri:
   nick: Jeyagauri
+  designation: Software Engineer
   avatar: team-jeyagauri.png
   interview:
     - q:
@@ -181,6 +201,7 @@ jeyagauri:
 
 hari:
   nick: Haripriyan
+  designation: Senior Software Engineer
   avatar: team-hari.png
   interview:
     - q:
@@ -188,6 +209,7 @@ hari:
 
 apk:
   nick: Arun Pandian
+  designation: Software Engineer
   avatar: team-apk.png
   interview:
     - q:
@@ -195,6 +217,7 @@ apk:
 
 srinidhi:
   nick: Srinidhi
+  designation: GrowthHacker, CASA
   avatar: team-srinidhi.png
   interview:
     - q:
@@ -202,7 +225,56 @@ srinidhi:
 
 shalini:
   nick: Shalini
+  designation: Senior Software Engineer
   avatar: team-shalini.png
+  interview:
+    - q:
+      a:
+
+ranjit:
+  nick: Ranjit Valerian
+  designation: Business Head, CASA
+  avatar: team-ranjit.png
+  interview:
+    - q:
+      a:
+
+richa:
+  nick: Richa Kakkad
+  designation: Regional Sales Manager, CASA
+  avatar: team-richa.png
+  interview:
+    - q:
+      a:
+
+rahul:
+  nick: Rahul Pandey
+  designation: Zonal Head, CASA
+  avatar: team-rahul.png
+  interview:
+    - q:
+      a:
+
+arjun:
+  nick: Arjun Aravind
+  designation: Software Engineer
+  avatar: team-arjun.png
+  interview:
+    - q:
+      a:
+
+sridevi:
+  nick: Sridevi
+  designation: Head, Human Resouces
+  avatar: team-sridevi.png
+  interview:
+    - q:
+      a:
+
+varada:
+  nick: Varadarajan V
+  designation: Senior Software Engineer
+  avatar: team-varada.png
   interview:
     - q:
       a:
