@@ -278,3 +278,27 @@ varada:
   interview:
     - q:
       a:
+
+manoj:
+  nick: Manoj
+  designation: Experience Designer
+  avatar: team-manoj.png
+  interview:
+    - q:
+      a:
+
+shimo:
+  nick: Shimo Singh
+  designation: Software Engineer
+  avatar: team-shimo.png
+  interview:
+    - q:
+      a:
+
+mano:
+  nick: Mano
+  designation: Lead Generation Executive
+  avatar: team-mano.png
+  interview:
+    - q:
+      a:
