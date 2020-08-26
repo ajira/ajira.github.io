@@ -294,3 +294,35 @@ mano:
   interview:
     - q:
       a:
+
+ragul:
+  nick: Ragul
+  designation: Software Engineering Intern
+  avatar: team-ragul.png
+  interview:
+    - q:
+      a:
+
+hariharan:
+  nick: Hariharan
+  designation: Software Engineering Intern
+  avatar: team-hariharan.png
+  interview:
+    - q:
+      a:
+
+shriram:
+  nick: Shriram
+  designation: Software Engineering Intern
+  avatar: team-shriram.png
+  interview:
+    - q:
+      a:
+
+nalini:
+  nick: Nalini
+  designation: Senior UI/UX Designer
+  avatar: team-nalini.png
+  interview:
+    - q:
+      a:
