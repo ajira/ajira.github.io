@@ -95,14 +95,6 @@ saravanank:
     - q: I am also called as...
       a: Periappa
 
-adharash:
-  nick: Adharsh
-  designation: Software Engineer
-  avatar: team-adharsh.png
-  interview:
-    - q:
-      a:
-
 aswin:
   nick: Aswin
   designation: Sales and Marketing Consultant
@@ -145,7 +137,7 @@ arunmadhavan:
 
 jyothi:
   nick: Jyothi
-  designation: Customer Care Consultant
+  designation: Customer Success Specialist
   avatar: team-jyothi.png
   interview:
     - q:
@@ -184,8 +176,8 @@ swetha:
       a:
 
 jeyagauri:
-  nick: Jeyagauri
-  designation: Software Engineer
+  nick: Jeyagouri
+  designation: Data Analyst
   avatar: team-jeyagauri.png
   interview:
     - q:
@@ -211,14 +203,6 @@ srinidhi:
   nick: Srinidhi
   designation: GrowthHacker, CASA
   avatar: team-srinidhi.png
-  interview:
-    - q:
-      a:
-
-shalini:
-  nick: Shalini
-  designation: Senior Software Engineer
-  avatar: team-shalini.png
   interview:
     - q:
       a:
@@ -319,10 +303,27 @@ shriram:
     - q:
       a:
 
+yuvaraj:
+  nick: Yuvaraj
+  designation: Software Engineering Intern
+  avatar: team-yuvaraj.png
+  interview:
+    - q:
+      a:
+
+
 nalini:
   nick: Nalini
   designation: Senior UI/UX Designer
   avatar: team-nalini.png
+  interview:
+    - q:
+      a:
+
+sindhu:
+  nick: Sindhu
+  designation: Senior UI/UX Designer
+  avatar: team-sindhu.png
   interview:
     - q:
       a:
