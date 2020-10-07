@@ -116,8 +116,12 @@ lordson:
   designation: Software Engineer
   avatar: team-lordson.png
   interview:
-    - q:
-      a:
+    - q: Your are also called as?
+      a: SaaS
+      q: What are your ninja skills?
+      a: Kowalski, Analysis!
+      q: How will you punish your greatest enemy?
+      a: By helping them out when no one else does.
 
 sinthiya:
   nick: Sinthiya
@@ -235,9 +239,17 @@ arjun:
   nick: Arjun Aravind
   designation: Software Engineer
   avatar: team-arjun.png
+  github: https://github.com/ArjArav98
+  blog: https://arjunaravind.in
   interview:
-    - q:
-      a:
+    - q: Motto in life?
+      a: Seize every single opportunity that comes your way.
+      q: Your serious message to the public.
+      a: Use public transportation more.
+      q: You are also called as?
+      a: Panda
+      q: How will you punish your greatest enemy?
+      a: I will make them work in the .NET stack their whole life.
 
 sridevi:
   nick: Sridevi
@@ -284,8 +296,14 @@ ragul:
   designation: Software Engineering Intern
   avatar: team-ragul.png
   interview:
-    - q:
-      a:
+    - q: Motto in life?
+      a: Fight till the last breath.
+      q: Your serious message to the public.
+      a: Give priority to humanity over money.
+      q: How will you punish your greatest enemy?
+      a: Stay calm and chill out.
+      q: Your favourite quote.
+      a: நாளை என்றும் நம் கையில் இல்லை நாம் யாரும் தேவன் கைபொம்மைகளே
 
 hariharan:
   nick: Hariharan
@@ -300,8 +318,14 @@ shriram:
   designation: Software Engineering Intern
   avatar: team-shriram.png
   interview:
-    - q:
-      a:
+    - q: Your motto in life?
+      a: To get my name carved on hearts, not just tombstones...
+      q: Your serious message to the public.
+      a: You'll get enough in life, if you help others get what they want in their life.
+      q: You are also called as?
+      a: Shri, Database
+      q: Your favourite quote?
+      a: Mind is everything. What you think you become.
 
 yuvaraj:
   nick: Yuvaraj
