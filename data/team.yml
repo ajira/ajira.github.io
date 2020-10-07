@@ -118,9 +118,9 @@ lordson:
   interview:
     - q: Your are also called as?
       a: SaaS
-      q: What are your ninja skills?
+    - q: What are your ninja skills?
       a: Kowalski, Analysis!
-      q: How will you punish your greatest enemy?
+    - q: How will you punish your greatest enemy?
       a: By helping them out when no one else does.
 
 sinthiya:
@@ -244,11 +244,11 @@ arjun:
   interview:
     - q: Motto in life?
       a: Seize every single opportunity that comes your way.
-      q: Your serious message to the public.
+    - q: Your serious message to the public.
       a: Use public transportation more.
-      q: You are also called as?
+    - q: You are also called as?
       a: Panda
-      q: How will you punish your greatest enemy?
+    - q: How will you punish your greatest enemy?
       a: I will make them work in the .NET stack their whole life.
 
 sridevi:
@@ -298,11 +298,11 @@ ragul:
   interview:
     - q: Motto in life?
       a: Fight till the last breath.
-      q: Your serious message to the public.
+    - q: Your serious message to the public.
       a: Give priority to humanity over money.
-      q: How will you punish your greatest enemy?
+    - q: How will you punish your greatest enemy?
       a: Stay calm and chill out.
-      q: Your favourite quote.
+    - q: Your favourite quote.
       a: நாளை என்றும் நம் கையில் இல்லை நாம் யாரும் தேவன் கைபொம்மைகளே
 
 hariharan:
@@ -320,11 +320,11 @@ shriram:
   interview:
     - q: Your motto in life?
       a: To get my name carved on hearts, not just tombstones...
-      q: Your serious message to the public.
+    - q: Your serious message to the public.
       a: You'll get enough in life, if you help others get what they want in their life.
-      q: You are also called as?
+    - q: You are also called as?
       a: Shri, Database
-      q: Your favourite quote?
+    - q: Your favourite quote?
       a: Mind is everything. What you think you become.
 
 yuvaraj:
