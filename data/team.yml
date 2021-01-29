@@ -336,3 +336,64 @@ ganesh:
     - q:
       a:
 
+raghavender:
+  nick: Raghavender Shyam
+  designation: Senior Implementation Consultant
+  avatar: team-raghavender.png
+  interview:
+    - q: One word that describes you in life?
+      a: Tactician
+    - q: Your motto in life?
+      a: Keep your eyes on the prize.
+    - q: You are also called as?
+      a: Ragha, Raghav, Gauti
+    - q: Your favourite quote?
+      a: "Never let the fear of striking out keep you from playing the game." - Babe Ruth
+
+vigneshwaran:
+  nick: Vigneshwaran Jothi
+  designation: Software Engineer
+  avatar: team-vigneshwaran.png
+  interview:
+    - q: Your favourite quote?
+      a: Sometimes you need to run before you can walk.
+
+chetan:
+  nick: Chetan
+  designation: Software Engineer
+  avatar: team-chetan.png
+  interview:
+    - q:
+      a:
+
+guru:
+  nick: Guruprasad
+  designation: Head of Delivery CASA
+  avatar: team-guru.png
+  interview:
+    - q:
+      a:
+
+raghul:
+  nick: raghul
+  designation: Software Engineering Intern
+  avatar: team-raghul.png
+  interview:
+    - q:
+      a:
+
+harish:
+  nick: Harish Bharadwaj
+  designation: Senior Software Engineer
+  avatar: team-harish.png
+  interview:
+    - q:
+      a:
+
+kdk:
+  nick: K Dharani Kumar
+  designation: Software Engineer
+  avatar: team-kdk.png
+  interview:
+    - q:
+      a:
