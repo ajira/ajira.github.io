@@ -131,14 +131,6 @@ sinthiya:
     - q:
       a:
 
-arunmadhavan:
-  nick: Arun Madhavan
-  designation: Lead Software Engineer
-  avatar: team-arunmadhavan.png
-  interview:
-    - q:
-      a:
-
 jyothi:
   nick: Jyothi
   designation: Customer Success Specialist
@@ -151,14 +143,6 @@ arvind:
   nick: Arvind
   designation: Senior Software Engineer
   avatar: team-arvind.png
-  interview:
-    - q:
-      a:
-
-pranav:
-  nick: Pranav
-  designation: Software Engineer
-  avatar: team-pranav.png
   interview:
     - q:
       a:
@@ -191,14 +175,6 @@ hari:
   nick: Haripriyan
   designation: Senior Software Engineer
   avatar: team-hari.png
-  interview:
-    - q:
-      a:
-
-apk:
-  nick: Arun Pandian
-  designation: Software Engineer
-  avatar: team-apk.png
   interview:
     - q:
       a:
