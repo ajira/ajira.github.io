@@ -363,8 +363,14 @@ chetan:
   designation: Software Engineer
   avatar: team-chetan.png
   interview:
-    - q:
-      a:
+    - q: Which possession do you value the most?
+      a: Liveliness
+    - q: Your motto in life?
+      a: To live the best life possible come what may
+    - q: Your serious message to the public?
+      a: Live and let live.
+    - q: Your favourite quote?
+      a: The finest steel has to go through the hottest fire.
 
 guru:
   nick: Guruprasad
@@ -375,25 +381,41 @@ guru:
       a:
 
 raghul:
-  nick: raghul
+  nick: Raghul Thangavel
   designation: Software Engineering Intern
   avatar: team-raghul.png
   interview:
-    - q:
-      a:
+    - q: One word that describes you in life?
+      a: Wanderlust
+    - q: Your motto in life?
+      a: One life!
+    - q: How will you punish your greatest enemy?
+      a: Tell them, unakenna pa!
 
 harish:
   nick: Harish Bharadwaj
-  designation: Senior Software Engineer
+  designation: Lead Software Consultant
   avatar: team-harish.png
   interview:
-    - q:
-      a:
+    - q: One word that describes you in life?
+      a: Live with contentment.
+    - q: Your serious message to the public.
+      a: Take care of animals.
+    - q: How will you punish your greatest enemy?
+      a: Give them a CSS bug to fix in IE.
+    - q: Your favourite quote?
+      a: Hope is a good thing, maybe the best of things and no good thing ever dies. 
 
 kdk:
   nick: K Dharani Kumar
   designation: Software Engineer
   avatar: team-kdk.png
   interview:
-    - q:
-      a:
+    - q: Your serious message to the public?
+      a: Think of your neighbour as yourself.
+    - q: Your favourite quote?
+      a: Rome was not built in a day.
+    - q: Your motto in life?
+      a: Be like KDK!
+    - q: Your are also called as?
+      a: KDK
