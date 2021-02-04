@@ -373,12 +373,18 @@ chetan:
       a: The finest steel has to go through the hottest fire.
 
 guru:
-  nick: Guruprasad
+  nick: Guruprasad Nagarajan
   designation: Head of Delivery CASA
   avatar: team-guru.png
   interview:
-    - q:
-      a:
+    - q: One word that describes you in life?
+      a: Practical
+    - q: Your motto in life?
+      a: Be yourself.
+    - q: Your favourite quote?
+      a: If you win, you can lead. If you lose, you can guide.
+    - q: When do you get pissed off?
+      a: If expectations are not met.
 
 raghul:
   nick: Raghul Thangavel
@@ -407,15 +413,27 @@ harish:
       a: Hope is a good thing, maybe the best of things and no good thing ever dies. 
 
 kdk:
-  nick: K Dharani Kumar
+  nick: K V Dharani Kumar
   designation: Software Engineer
   avatar: team-kdk.png
   interview:
     - q: Your serious message to the public?
-      a: Think of your neighbour as yourself.
+      a:  தன்னைப் போல் பிறரை நினை.
     - q: Your favourite quote?
       a: Rome was not built in a day.
     - q: Your motto in life?
       a: Be like KDK!
     - q: Your are also called as?
       a: KDK
+
+uma:
+  nick: Uma Maheswara Rao N
+  designation: Inside Sales
+  avatar: team-uma.png
+  interview:
+    - q: One word that descrives you in life?
+      a: Honest/Ethical
+    - q: Your motto in life?
+      a: One person can make a difference.
+    - q: Wha's your interesting hobby and why do you practise it?
+      a: I play chess and it's fascinating.
