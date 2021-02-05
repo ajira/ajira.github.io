@@ -435,5 +435,19 @@ uma:
       a: Honest/Ethical
     - q: Your motto in life?
       a: One person can make a difference.
-    - q: Wha's your interesting hobby and why do you practise it?
+    - q: What's your interesting hobby and why do you practise it?
       a: I play chess and it's fascinating.
+
+karthik:
+  nick: Karthik Prabu Elangovan
+  designation: Senior Software Engineer
+  avatar: team-karthik.png
+  interview:
+    - q: One word that descrives you in life?
+      a: Chill
+    - q: Your motto in life?
+      a: Free ah vidu. 
+    - q: Which possesion do you value the most? 
+      a: Laptop.
+    - q: You are also called as?
+      a: KP.
