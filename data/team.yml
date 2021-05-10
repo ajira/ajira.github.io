@@ -46,14 +46,6 @@ tamizh:
     - q: Serious message to the public?
       a: Leave this world a little better than you found it
 
-prabu:
-  nick: Prabu
-  designation: Lead Software Engineer
-  avatar: team-prabu.png
-  interview:
-    - q:
-      a:
-
 ragavan:
   nick: Ragavan
   designation: Principal Software Engineer
@@ -135,14 +127,6 @@ jyothi:
   nick: Jyothi
   designation: Customer Success Specialist
   avatar: team-jyothi.png
-  interview:
-    - q:
-      a:
-
-arvind:
-  nick: Arvind
-  designation: Senior Software Engineer
-  avatar: team-arvind.png
   interview:
     - q:
       a:
@@ -259,14 +243,6 @@ shimo:
     - q:
       a:
 
-mano:
-  nick: Mano
-  designation: Lead Generation Executive
-  avatar: team-mano.png
-  interview:
-    - q:
-      a:
-
 ragul:
   nick: Ragul
   designation: Software Engineering Intern
@@ -372,20 +348,6 @@ chetan:
     - q: Your favourite quote?
       a: The finest steel has to go through the hottest fire.
 
-guru:
-  nick: Guruprasad Nagarajan
-  designation: Head of Delivery CASA
-  avatar: team-guru.png
-  interview:
-    - q: One word that describes you in life?
-      a: Practical
-    - q: Your motto in life?
-      a: Be yourself.
-    - q: Your favourite quote?
-      a: If you win, you can lead. If you lose, you can guide.
-    - q: When do you get pissed off?
-      a: If expectations are not met.
-
 raghul:
   nick: Raghul Thangavel
   designation: Software Engineering Intern
@@ -451,3 +413,57 @@ karthik:
       a: Laptop.
     - q: You are also called as?
       a: KP.
+
+aravind:
+  nick: Aravind
+  designation: UI Engineer - CASA
+  avatar: team-aravind.png
+  interview:
+    - q: Your motto in life?
+      a: Create your own happiness. 
+    - q: What are your ninja skills? 
+      a: Javascript, CSS
+    - q: What's your interesting hobby? 
+      a: Badminton.
+
+manoji:
+  nick: Manoji
+  designation: Software Engineer 
+  avatar: team-aravind.png
+  interview:
+    - q: One word that describes you in life?      
+      a: Biggest fan of Tony Stark!
+    - q: Which possession do you value the most?
+      a: Ability to empathize.
+    - q: Your motto in life?
+      a: 1) Solve as many problems as you can (Real-life problems) and 2) to understand the real motto of life.
+    - q: Your favourite quote?
+      a: நீ நல்லவனா இருக்க வேண்டாம், நல்லவனா இருக்கணும்னு நெனச்சாலே போதும்.
+
+balaji:
+  nick: Balaji
+  designation: UI Engineer - CASA
+  avatar: team-balaji.png
+  interview:
+    - q: One word that describes you in life?
+      a: Empathetic
+    - q: Which possession do you value the most?
+      a: Family
+    - q: Your motto in life!
+      a: To share love and happiness as much as possible.
+    - q: What's your interesting hobby and why do you practise it?
+      a: Photography, I practise it to remember the good moments that I come across.
+
+padma:
+  nick: Padma
+  designation: Business Analyst - CASA
+  avatar: team-balaji.png
+  interview:
+    - q: One word that describes you in life?
+      a: Empathetic
+    - q: Which possession do you value the most?
+      a: Family
+    - q: Your motto in life!
+      a: To share love and happiness as much as possible.
+    - q: What's your interesting hobby and why do you practise it?
+      a: Photography, I practise it to remember the good moments that I come across.
