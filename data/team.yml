@@ -211,30 +211,6 @@ arjun:
     - q: How will you punish your greatest enemy?
       a: I will make them work in the .NET stack their whole life.
 
-sridevi:
-  nick: Sridevi
-  designation: Head, Human Resouces
-  avatar: team-sridevi.png
-  interview:
-    - q:
-      a:
-
-varada:
-  nick: Varadarajan V
-  designation: Senior Software Engineer
-  avatar: team-varada.png
-  interview:
-    - q:
-      a:
-
-manoj:
-  nick: Manoj
-  designation: Experience Designer
-  avatar: team-manoj.png
-  interview:
-    - q:
-      a:
-
 shimo:
   nick: Shimo Singh
   designation: Software Engineer
@@ -429,7 +405,7 @@ aravind:
 manoji:
   nick: Manoji
   designation: Software Engineer 
-  avatar: team-aravind.png
+  avatar: team-manoji.png
   interview:
     - q: One word that describes you in life?      
       a: Biggest fan of Tony Stark!
@@ -457,7 +433,7 @@ balaji:
 padma:
   nick: Padma
   designation: Business Analyst - CASA
-  avatar: team-balaji.png
+  avatar: team-padma.png
   interview:
     - q: One word that describes you in life?
       a: Empathetic
